@@ -10,9 +10,9 @@ Ingeniero en telecomunicación.
 </div>
 
 
-## Currently
+## Actualmente
 
-tanding on the shoulders of giants
+Preparando CCNP y CCNA Security.
 
 ### Especializado en
 
@@ -24,16 +24,15 @@ Networking y VoIP.
 `2007-2014`
 __Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
-
 ## Habilidades
-
 
 ### Networking
 
  - Routers y switches Cisco, Ubiquiti
  - Cortafuegos ASA, Juniper, Watchguard y Sonicwall
  - Wireless Cisco, D-Link, Ubiquiti
- - VPN: IPSec, AnyConnect, OpenVPN, PPTP
+ - VPN: IPSec, AnyConnect, OpenVPN, PPTP, MPLS, DMVPN
+ - Protocolos de enrutamiento: OSPF, EIGRP, RIP, BGP
 
 ### Sistemas Operativos
 
@@ -43,7 +42,8 @@ __Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
 ### Software
 
-IPtables, Git, MySQL, Nagios, LibreNMS, OSticket, Docker, Kubernetes
+IPtables, Git, MySQL, Nagios, LibreNMS, OSticket, Docker, Kubernetes, Libvirt,
+Proxmox, Apache
 
 ### VoIP
 
@@ -53,12 +53,15 @@ Asterisk, FreePBX, Kamailio, Freeswitch
 
 C, Perl, Python, Regex, SQL, Bash, JavaScript
 
-### Certificaciones
-
+## Certificaciones
 
 `2018`
 Cisco Certified Network Associate Routing & Switching
 
+## Idiomas
+
+__Inglés__: C2 Profiency
+__Català__: Nivell A Elmental (B1 Valencià)
 
 ## Experiencia
 
