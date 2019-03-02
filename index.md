@@ -76,7 +76,7 @@ __Platform Engineer__, WSN
 __Ingeniero de redes y VoIP__, Inteccno
 
 - Administrador de la red de múltiples clientes.
-- Administrador VoIP.
+- Administrador VoIP de todos los clientes.
 - Consultoría de redes.
 
 
