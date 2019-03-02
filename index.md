@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV de Lluis Satorre
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lluís Satorre González
+Ingeniero en telecomunicación.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lluisyast@gmail.com">lluisyast@gmail.com</a>
 </div>
 
 
@@ -87,5 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
 
 
