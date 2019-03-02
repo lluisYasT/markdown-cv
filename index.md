@@ -12,11 +12,11 @@ Ingeniero en telecomunicación.
 
 ## Currently
 
-Standing on the shoulders of giants
+tanding on the shoulders of giants
 
-### Specialized in
+### Especializado en
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Networking y VoIP.
 
 
 ### Research interests
@@ -26,66 +26,62 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2007-2014`
+__Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Habilidades
 
 
+### Networking
+ - Routers y switches Cisco
+ - Cortafuegos ASA
+ - Cortafuegos Juniper
+ - Cortafuegos Watchguard
 
-## Publications
+### Software
+ - CentOS
+ - Debian
+ - Nagios
+ - LibreNMS
+ - OSticket
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### VoIP
+  - Asterisk
+  - Kamailio
+  - FreePBX
 
-### Journals
+### Lenguajes de programación
+  - C
+  - Perl
+  - Python
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Certificaciones
 
-`1669`
-Lectiones opticæ.
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018`
+Cisco Certified Network Associate
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2014 -`
+__Platform Engineer__, WSN
 
-- Warden
-- Minted coins
+- Encargado de toda la infraestructura IT.
+- Instalación y mantenimiento de la plataforma VoIP.
+- Diseño y gestión de la red.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018 -`
+__Ingeniero de redes y VoIP__, Inteccno
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Última actualización: Marzo 2019 -->
 
 
 
