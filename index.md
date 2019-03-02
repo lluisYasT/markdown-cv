@@ -60,8 +60,8 @@ Cisco Certified Network Associate Routing & Switching
 
 ## Idiomas
 
-__Inglés__: C2 Profiency
-__Català__: Nivell A Elmental (B1 Valencià)
+- __Inglés__: C2 Profiency
+- __Català__: Nivell A Elmental (B1 Valencià)
 
 ## Experiencia
 
