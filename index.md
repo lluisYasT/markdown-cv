@@ -12,7 +12,7 @@ Ingeniero en telecomunicación.
 ## Educación
 
 `2007-2014`
-__Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
+__Ingenieria en Telecomunicación__, especializado en telemática. Universidad Politécnica de Valencia.
 
 ## Habilidades
 
@@ -26,7 +26,7 @@ __Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
 ### Sistemas Operativos
 
-Linux (CentOS, Debian, Ubuntu, Archlinux), Windows, OpenBSD
+Linux (CentOS, Debian, Ubuntu server), Windows, OpenBSD
 
 ### Software
 
