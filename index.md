@@ -10,11 +10,7 @@ Ingeniero en telecomunicación.
 </div>
 
 
-## Actualmente
-
-Preparando CCNP y CCNA Security.
-
-### Especializado en
+## Especializado en
 
 Networking y VoIP.
 
@@ -28,7 +24,7 @@ __Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
 ### Networking
 
- - Routers y switches Cisco, Ubiquiti
+ - Routers y switches Cisco, Ubiquiti, Mikrotik
  - Cortafuegos ASA, Juniper, Watchguard y Sonicwall
  - Wireless Cisco, D-Link, Ubiquiti
  - VPN: IPSec, AnyConnect, OpenVPN, PPTP, MPLS, DMVPN
@@ -42,12 +38,12 @@ __Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
 ### Software
 
-IPtables, Git, MySQL, Nagios, LibreNMS, OSticket, Docker, Kubernetes, Libvirt,
+IPtables, Git, MySQL, Nagios, LibreNMS, Wireshark, Ansible, OSticket, Docker, Kubernetes, Libvirt,
 Proxmox, Apache
 
 ### VoIP
 
-Asterisk, FreePBX, Kamailio, Freeswitch
+Asterisk, FreePBX, Kamailio, Freeswitch, Kazoo
 
 ### Lenguajes de programación
 
@@ -56,27 +52,26 @@ C, Perl, Python, Regex, SQL, Bash, JavaScript
 ## Certificaciones
 
 `2018`
-Cisco Certified Network Associate Routing & Switching
+__CCNA__ Routing & Switching. Preparando CCNP y CCNA Security.
 
 ## Idiomas
 
-- __Inglés__: C2 Profiency
-- __Català__: Nivell A Elmental (B1 Valencià)
+- __Inglés__: C2 Proficiency
+- __Català__: Nivell A Elemental (B1 Valencià)
 
 ## Experiencia
 
 `2014 -`
 __Platform Engineer__, WSN
 
-- Encargado de toda la infraestructura IT.
-- Instalación y mantenimiento de la plataforma VoIP.
-- Diseño y gestión de la red.
+- Instalación y mantenimiento de la plataforma VoIP: Puse en marcha una plataforma de telefonía basada en Asterisk localizada en Barcelona y dos POPs en Holanda y Noruega que dan conexión a nuestros clientes marítimos.
+- Diseño y gestión de la red: He diseñado e implementado la red que soporta tanto nuestros servicios de voz que ofrecemos a nuestros clientes como la comunicación interna de la empresa.
 
 `2018 -`
 __Ingeniero de redes y VoIP__, Inteccno
 
-- Administrador de la red de múltiples clientes.
-- Administrador VoIP.
+- Administrador de la red de múltiples clientes. Actualmente soy responsable de la red de varios clientes con equipos de vendedores diversos: Routers y Firewalls Cisco, Juniper SRX, Dell Sonicwall o Watchguards. En varias de ellas he implantado conexiones VPN entre sedes usando IPSec o VPN de usuario remoto con Anyconnect, Pulse, IPsec, OpenVPN y PPTP.
+- Administrador VoIP: Gestiono la telefonía de los clientes de Inteccno incluyendo la configuración de la centralita y los terminales y la conexión de la redes internas de telefonía a la centralita virtual (con túneles IPSec redundados entre la LAN del cliente y la centralita).
 - Consultoría de redes.
 
 
