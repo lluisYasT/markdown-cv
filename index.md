@@ -57,13 +57,13 @@ __CCNA__ Routing & Switching. Preparando CCNP y CCNA Security.
 __Platform Engineer__, WSN
 
 - Instalación y mantenimiento de la plataforma VoIP: Puse en marcha una plataforma de telefonía basada en Asterisk localizada en Barcelona y dos POPs en Holanda y Noruega que dan conexión a nuestros clientes marítimos.
-- He diseñado e implementado la red que soporta tanto nuestros servicios de voz que ofrecemos a nuestros clientes como la comunicación interna de la empresa.
+- He diseñado e implementado la red que soporta tanto los servicios de voz que ofrecemos a nuestros clientes como la comunicación interna de la empresa.
 
 `2018 -`
 __Ingeniero de redes y VoIP__, Inteccno
 
 - Administrador de red. Actualmente soy responsable de la red de varios clientes con equipos de vendedores diversos: Routers y Firewalls Cisco, Juniper SRX, Dell Sonicwall o Watchguard. En varias de ellas he implantado conexiones VPN entre sedes usando IPSec o VPN de usuario remoto con Anyconnect, Pulse, IPsec, OpenVPN y PPTP y soluciones Wifi basadas en Cisco o D-Link.
-- Administrador VoIP: Gestiono la telefonía de los clientes de Inteccno incluyendo la configuración de la centralita y los terminales y la conexión de la redes internas de telefonía a la centralita virtual (con túneles IPSec redundados entre la LAN del cliente y la centralita).
+- Administrador VoIP: Gestiono la telefonía de los clientes de Inteccno incluyendo la configuración de la centralita y los terminales; y la conexión de la redes internas de telefonía a la centralita virtual (con túneles IPSec redundados entre la LAN del cliente y la centralita).
 - Consultoría de redes.
 
 
