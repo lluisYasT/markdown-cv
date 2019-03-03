@@ -9,12 +9,6 @@ Ingeniero en telecomunicación.
 <a href="lluisyast@gmail.com">lluisyast@gmail.com</a>
 </div>
 
-
-## Especializado en
-
-Networking y VoIP.
-
-
 ## Educación
 
 `2007-2014`
@@ -32,9 +26,7 @@ __Ingenieria en Telecomunicación__, Universidad Politécnica de Valencia.
 
 ### Sistemas Operativos
 
- - GNU/Linux (CentOS, Debian, Ubuntu, Archlinux)
- - Windows
- - OpenBSD
+Linux (CentOS, Debian, Ubuntu, Archlinux), Windows, OpenBSD
 
 ### Software
 
@@ -70,7 +62,7 @@ __Platform Engineer__, WSN
 `2018 -`
 __Ingeniero de redes y VoIP__, Inteccno
 
-- Administrador de la red de múltiples clientes. Actualmente soy responsable de la red de varios clientes con equipos de vendedores diversos: Routers y Firewalls Cisco, Juniper SRX, Dell Sonicwall o Watchguards. En varias de ellas he implantado conexiones VPN entre sedes usando IPSec o VPN de usuario remoto con Anyconnect, Pulse, IPsec, OpenVPN y PPTP.
+- Administrador de red. Actualmente soy responsable de la red de varios clientes con equipos de vendedores diversos: Routers y Firewalls Cisco, Juniper SRX, Dell Sonicwall o Watchguard. En varias de ellas he implantado conexiones VPN entre sedes usando IPSec o VPN de usuario remoto con Anyconnect, Pulse, IPsec, OpenVPN y PPTP y soluciones Wifi basadas en Cisco o D-Link.
 - Administrador VoIP: Gestiono la telefonía de los clientes de Inteccno incluyendo la configuración de la centralita y los terminales y la conexión de la redes internas de telefonía a la centralita virtual (con túneles IPSec redundados entre la LAN del cliente y la centralita).
 - Consultoría de redes.
 
