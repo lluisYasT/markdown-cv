@@ -57,7 +57,7 @@ __CCNA__ Routing & Switching. Preparando CCNP y CCNA Security.
 __Platform Engineer__, WSN
 
 - Instalación y mantenimiento de la plataforma VoIP: Puse en marcha una plataforma de telefonía basada en Asterisk localizada en Barcelona y dos POPs en Holanda y Noruega que dan conexión a nuestros clientes marítimos.
-- Diseño y gestión de la red: He diseñado e implementado la red que soporta tanto nuestros servicios de voz que ofrecemos a nuestros clientes como la comunicación interna de la empresa.
+- He diseñado e implementado la red que soporta tanto nuestros servicios de voz que ofrecemos a nuestros clientes como la comunicación interna de la empresa.
 
 `2018 -`
 __Ingeniero de redes y VoIP__, Inteccno
