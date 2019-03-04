@@ -19,7 +19,7 @@ __Ingenieria en Telecomunicación__, especializado en telemática. Universidad P
 ### Networking
 
  - Routers y switches Cisco, Ubiquiti, Mikrotik
- - Cortafuegos ASA, Juniper, Watchguard y Sonicwall
+ - Cortafuegos ASA, Juniper, Watchguard, Sonicwall y Lancom.
  - Wireless Cisco, D-Link, Ubiquiti
  - VPN: IPSec, AnyConnect, OpenVPN, PPTP, MPLS, DMVPN
  - Protocolos de enrutamiento: OSPF, EIGRP, RIP, BGP
